@@ -8,9 +8,9 @@ Use evidence from `server_log.txt`, `email_header.txt`, and `file_metadata.txt` 
 
 ### Section A — Server Log Analysis
 
-**Q1.** What is the username of the primary suspect? What evidence from the server log supports this?
+**Q1.** receiver_unknown@protonmail.com What evidence from the server log supports this?
 
-**Q2.** At what time did the suspect's activity become suspicious? What specifically changed between their daytime and nighttime sessions? (Look at IP addresses AND files accessed.)
+**Q2.** 23:48:15 What specifically changed between their daytime and nighttime sessions? (Look at IP addresses AND files accessed.)
 
 **Q3.** List every file the suspect downloaded during the suspicious session. Why would each of these files be considered sensitive or confidential?
 
@@ -36,7 +36,7 @@ Use evidence from `server_log.txt`, `email_header.txt`, and `file_metadata.txt` 
 
 **Q10.** The "Last Accessed" timestamp on every file is `2026-04-19 08:15:01`. Why are they all identical? What event caused this?
 
-**Q11.** `note_to_self.txt` was created at `23:44:00` and the email was sent at `23:32:00`. Does this timeline make sense given what the note contains? Explain.
+**Q11.** `note_to_self.txt` was created at `23:44:00` and the email was sent at `23:32:00`.the notestoself text file was created after the email was sent
 
 ---
 
