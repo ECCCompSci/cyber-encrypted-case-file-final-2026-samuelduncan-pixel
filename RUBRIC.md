@@ -1,9 +1,4 @@
-# 📊 Grading Rubric — Encrypted Case File Final
-**Total Points: 200**
 
----
-
-## Part 1 — Solve the Case (100 points)
 
 ### Cryptography — Decryption (50 points)
 | Criteria | Full Credit | Partial Credit | No Credit |
